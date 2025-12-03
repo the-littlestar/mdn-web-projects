@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <title>Strong and Emphasis</title>
+  </head>
+  <body>
+    <h1><em>Emphasis</em> and <strong>importance</strong></h1>
+
+    <p>
+      My new coffee machine is called <strong>The Percolator 2000</strong>. It
+      produces the most <em>sublime</em> and <em>wonderful</em> brew.
+    </p>
+
+    <p>
+      In the dead of winter, it will be <strong>cold</strong>.
+      <strong>You should wrap up warm to avoid <em>falling ill</em></strong
+      >.
+    </p>
+  </body>
+</html>
